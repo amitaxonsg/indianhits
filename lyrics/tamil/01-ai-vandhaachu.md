@@ -2,199 +2,172 @@
 
 **Language:** Tamil  
 **Genre:** Chennai Kuthu + Gaana + Electronic Dance  
-**Mood:** Fun, fast, cheeky, celebratory  
-**Performance style:** Male/female lead with crowd call-and-response  
-**Core hook:** “AI வந்தாச்சு!” / “Vandhaachu!”  
+**Tempo:** ~138 BPM  
+**Lead vocal:** Energetic Tamil male singer  
+**Secondary vocal:** Playful female AI response voice  
+**Chorus:** Mixed male/female crowd  
+**Instrumentation:** Thavil, parai, nadaswaram, hand claps, festival percussion, synth bass, modern electronic dance beat  
+**Mood:** Funny, catchy, celebratory, India-positive  
+**Writing direction:** Real everyday Indian situations, harmless AI/marketing-hype jokes, strong Tamil identity, positive ending about Indian talent, students, startups, languages and human decision-making.
 
----
+## Murake.ai Style Prompt
 
-## Intro
+High-energy Tamil Chennai kuthu + gaana + electronic dance, around 138 BPM. Energetic Tamil male lead singer, playful female AI response voice, and a large mixed crowd chorus. Strong thavil, parai drums, nadaswaram, hand claps and festival percussion mixed with punchy modern synth bass and electronic dance beats. Very catchy, humorous, celebratory and India-positive. Natural Tamil-English code-switching, clear Tamil pronunciation, short punchy lines, strong call-and-response sections and a huge repeatable chorus. Chennai street-festival atmosphere with modern Indian tech energy. Original composition, not imitating any specific singer.
+
+## Murake.ai Paste-Only Lyrics
 
 ஏய்! ஏய்! ஏய்!
 
-சென்னையிலே sound-u,
-சாலையிலே crowd-u,
-Phone திறந்தா ஒரு கேள்வி —
-“AI என்ன சொல்றது?”
+AI வந்தாச்சு! வந்தாச்சு!
+India-வும் ready ஆச்சு!
+Chai-யோட code-u, beat-ஓட data,
+நம்ம idea உலகம் reach ஆச்சு!
 
-Ready-aa?
+AI வந்தாச்சு! வந்தாச்சு!
+Tamil-லும் பேச ஆரம்பிச்சாச்சு!
+Machine fast-u, மக்கள் smart-u,
+Future-u நம்ம கையில் ஆச்சு!
 
-**AI வந்தாச்சு!**
+காலை tea கடையிலே
+Uncle phone-ஐ பார்த்தாரே
+Sugar குறைக்க என்ன பண்ண?
+AI சொன்னது Tea-யே குறை!
 
----
+Uncle சொன்னார்
+Advice கேட்டேன்
+Tea-யே எடுத்துட்டா
+Life-ல என்ன balance-u?
 
-## Verse 1
+Auto anna map-ஐ பார்த்தார்
+AI route-ஐ காட்டிச்சு
+Anna சிரிச்சு சொல்லிட்டார்
+Road அதுக்குத் தெரியும்
+Traffic எனக்குத் தெரியும்!
 
-காலை tea கடையிலே,
-Uncle phone-ஐ பார்த்தாரே,
-“Sugar குறைக்க என்ன பண்ண?”
-AI சொன்னது — “Tea-யே குறை!”
+AI வந்தாச்சு! வந்தாச்சு!
+India-வும் ready ஆச்சு!
+Chai-யோட code-u, beat-ஓட data,
+நம்ம idea உலகம் reach ஆச்சு!
 
-Uncle சொன்னார்:
-“அடப்பாவியே!
-Advice கேட்டேன்,
-Tea எடுத்துடாதே!”
+AI வந்தாச்சு! வந்தாச்சு!
+Tamil-லும் பேச ஆரம்பிச்சாச்சு!
+Machine fast-u, மக்கள் smart-u,
+Future-u நம்ம கையில் ஆச்சு!
 
-Auto anna map-ஐ பார்த்து,
-“Fastest route எது?” கேட்டார்,
-AI சொன்ன road-ஐ விட்டுட்டு,
-“Shortcut எனக்குத்தான் தெரியும்!” என்றார்!
+Paati kitchen-ல tablet வைத்து
+Rasam recipe கேட்டாங்க
+AI measure சொல்லி முடிச்சதும்
+Paati கைல spice அதிகமாச்சு!
 
----
+AI சொன்னது
+Recipe complete!
 
-## Pre-Chorus
+Paati சொன்னாங்க
+முதல்ல taste பண்ணு kanna
+அப்புறம் பேசு!
 
-Question ஒன்று — answer ஒன்று,
-Life-க்கு மட்டும் formula இல்லை,
-Screen-ல brain-u வேகம் தான்,
-Steering இன்னும் நம்ம கையில்!
+College student midnight-ல
+Laptop முன்னாடி tension-ல
+AI full answer please da
+என்று கேட்டான் casual-ஆ
 
----
+AI சொன்னது
+Chapter open பண்ணு da!
 
-## Chorus
+Student சொன்னான்
+இந்த AI-க்கும்
+Teacher habit வந்துடுச்சே!
 
-**AI வந்தாச்சு — hey! hey!  
-கேள்வி கேட்டா பதில் வந்தாச்சு — hey! hey!  
-Tea கடையிலே, office-லே,  
-“AI என்ன சொல்றது?” எல்லாரும் கேக்குறோம்!**
+AI வந்தாச்சு! வந்தாச்சு!
+India-வும் ready ஆச்சு!
+Chai-யோட code-u, beat-ஓட data,
+நம்ம idea உலகம் reach ஆச்சு!
 
-**AI வந்தாச்சு — hey! hey!  
-Speed-u கூட super வந்தாச்சு — hey! hey!  
-Machine சொல்லட்டும், idea கொடுக்கட்டும்,  
-Final decision நாம்தான் எடுக்குறோம்!**
+AI வந்தாச்சு! வந்தாச்சு!
+Tamil-லும் பேச ஆரம்பிச்சாச்சு!
+Machine fast-u, மக்கள் smart-u,
+Future-u நம்ம கையில் ஆச்சு!
 
-Crowd: **வந்தாச்சு!**  
-Lead: AI?  
-Crowd: **வந்தாச்சு!**
+Phone-க்கும் AI
+Fan-க்கும் AI
+Watch-க்கும் AI
+App-க்கும் AI
 
----
+Tea kadaikku எப்போ AI?
 
-## Verse 2
+எல்லாமே AI-aa?
 
-Paati kitchen-ல phone வைத்து,
-“Rasam எப்படி?” என்று கேட்டாங்க,
-AI recipe சொல்லி முடிச்சதும்,
-Paati சிரிச்சு spice-ஐ கூட்டினாங்க!
+Sticker மட்டும் மாற்றாதே!
 
-“இது தான் correct-u,
-நீ கொஞ்சம் learn பண்ணு!”
-AI silent…
-Paati winner-u!
+AI-க்குத் தெரியுமா
+Dosa யார் சாப்பிட்டது?
 
-College student midnight-ல,
-Assignment பார்த்து tension-ல,
-“AI, full answer please da!”
-AI சொன்னது:
-“First நீ படி da!”
+தெரியாது!
 
-Student சொன்னான்:
-“இந்த AI-க்கும்
-teacher habit வந்துடுச்சே!”
+Crush reply வருமா?
 
----
+தெரியாது!
 
-## Pre-Chorus 2
+Boss ஏன் serious-aa?
 
-Data நிறைய, speed-um நிறைய,
-Sense மட்டும் download ஆகுமா?
-Help பண்ணலாம், hint-um தரலாம்,
-Dream-ஐ நமக்காக யார் காண்பா?
+அதுவும் தெரியாது!
 
----
+அப்போ என்ன தெரியும்?
 
-## Chorus
+கேளு
+Help பண்ணும்!
 
-**AI வந்தாச்சு — hey! hey!  
-கேள்வி கேட்டா பதில் வந்தாச்சு — hey! hey!  
-Tea கடையிலே, college-லே,  
-“AI என்ன சொல்றது?” எல்லாரும் கேக்குறோம்!**
+Life யார் ஓட்டணும்?
 
-**AI வந்தாச்சு — hey! hey!  
-Future கொஞ்சம் closer வந்தாச்சு — hey! hey!  
-Machine சொல்லட்டும், idea கொடுக்கட்டும்,  
-Final decision நாம்தான் எடுக்குறோம்!**
+நாம்தான்!
 
-Crowd: **வந்தாச்சு!**  
-Lead: Future?  
-Crowd: **வந்தாச்சு!**
+Code நம்ம கையில்
+கனவு நம்ம கண்ணில்
+Chennai முதல் Delhi வரை
+Ideas ஓடும் மின்னல்!
 
----
+Student-ம் build பண்ணட்டும்
+Startup-ம் rise ஆகட்டும்
+Tamil, Hindi, எல்லா மொழியிலும்
+Technology பேசட்டும்!
 
-## Breakdown / Gaana Call-and-Response
+AI ஒரு tool-u
+Talent தான் fuel-u
+India dream பண்ணா
+Future-ku இல்லை rule-u!
 
-Lead: Dosa யார் சாப்பிட்டது?  
-Crowd: **AI-க்குத் தெரியாது!**
+AI வந்தாச்சு! வந்தாச்சு!
+India-வும் ready ஆச்சு!
+Chai-யோட code-u, beat-ஓட data,
+நம்ம idea உலகம் reach ஆச்சு!
 
-Lead: Boss ஏன் கோபம்?  
-Crowd: **AI-க்குத் தெரியாது!**
+AI வந்தாச்சு! வந்தாச்சு!
+Tamil-லும் பேச ஆரம்பிச்சாச்சு!
+Machine fast-u, மக்கள் smart-u,
+Future-u நம்ம கையில் ஆச்சு!
 
-Lead: Crush reply வருமா?  
-Crowd: **AI-க்குத் தெரியாது!**
+AI வந்தாச்சா?
 
-Lead: அப்போ என்ன தெரியும்?  
-Crowd: **கேளு — பார்த்துக்கலாம்!**
+வந்தாச்சு!
 
-Lead: எல்லாத்துக்கும் answer-aa?  
-Crowd: **இல்லை da!**
+India ready-aa?
 
-Lead: Help பண்ணுமா?  
-Crowd: **பண்ணும் da!**
+Ready!
 
-Lead: Life யார் ஓட்டணும்?  
-Crowd: **நாம்தான் da!**
+Brain நம்மதா?
 
----
+நம்மதுதான்!
 
-## Bridge
+Future யாருடையது?
 
-Code இருக்கட்டும்,
-Cloud இருக்கட்டும்,
-Robot வந்து dance ஆடட்டும்,
+நம்மதுதான்!
 
-Tamil இருக்கட்டும்,
-Gaana இருக்கட்டும்,
-Human heart-ஐ யாரும் replace பண்ணாதே!
+AI வந்தாச்சு!
+Hype-உம் வந்தாச்சு!
+ஆனா common sense?
 
-Idea machine-ல பிறக்கலாம்,
-Meaning நம்ம கையில் உருவாகலாம்,
-AI ஒரு tool-u, boss-u இல்லை,
-நம்ம future — நம்ம style-u!
+நம்ம கிட்ட இருக்கு!
 
----
+ஏய்! ஏய்!
+AI வந்தாச்சு!
 
-## Final Chorus
-
-**AI வந்தாச்சு — hey! hey!  
-கேள்வி கேட்டா பதில் வந்தாச்சு — hey! hey!  
-Chennai முதல் உலகம் வரை,  
-“AI என்ன சொல்றது?” எல்லாரும் கேக்குறோம்!**
-
-**AI வந்தாச்சு — hey! hey!  
-நம்ம காலம் update ஆனாச்சு — hey! hey!  
-Machine சொல்லட்டும், idea கொடுக்கட்டும்,  
-Final decision நாம்தான் எடுக்குறோம்!**
-
-Crowd: **வந்தாச்சு! வந்தாச்சு!**  
-Lead: AI வந்தாச்சா?  
-Crowd: **வந்தாச்சு!**
-
-Lead: Brain நம்மதா?  
-Crowd: **நம்மதுதான்!**
-
-Lead: Future யாருடையது?  
-Crowd: **நம்மதுதான்!**
-
----
-
-## Outro
-
-AI வந்தாச்சு…
-Hype-உம் வந்தாச்சு…
-
-ஆனா…
-
-Common sense இருக்கா?
-
-Crowd: **அது நம்ம கிட்ட இருக்கு!**
-
-**Hey! Hey! AI வந்தாச்சு!**
