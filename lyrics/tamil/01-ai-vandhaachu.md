@@ -12,7 +12,30 @@
 
 ## Murake.ai Style Prompt
 
-High-energy Tamil Chennai kuthu + gaana + electronic dance, around 138 BPM. Energetic Tamil male lead singer, playful female AI response voice, and a large mixed crowd chorus. Strong thavil, parai drums, nadaswaram, hand claps and festival percussion mixed with punchy modern synth bass and electronic dance beats. Very catchy, humorous, celebratory and India-positive. Natural Tamil-English code-switching, clear Tamil pronunciation, short punchy lines, strong call-and-response sections and a huge repeatable chorus. Chennai street-festival atmosphere with modern Indian tech energy. Original composition, not imitating any specific singer.
+High-energy Tamil Chennai kuthu + gaana + electronic dance, around 138 BPM.
+
+Energetic Tamil male lead singer performs the main story verses and most of the song.
+
+A playful female AI voice performs only the short AI reply lines and witty AI responses.
+
+A mixed male-and-female crowd performs the repeated chorus, chants, punchlines and call-and-response answers.
+
+Male voice should sound lively, humorous and confident. Female AI voice should sound bright, clever, friendly and slightly futuristic, but still natural and human-like. Crowd vocals should feel like a Chennai street festival with people shouting and singing together.
+
+Strong thavil, parai drums, nadaswaram, hand claps and festival percussion mixed with punchy modern synth bass and electronic dance beats.
+
+Very catchy, humorous, celebratory and India-positive. Natural Tamil-English code-switching with clear Tamil pronunciation. Short punchy lines, strong call-and-response moments and a huge repeatable chorus.
+
+Make the comedy feel natural and relatable to everyday Indian life. Finish with an uplifting feeling about Indian talent, students, startups, technology and human intelligence.
+
+Original composition. Do not imitate any specific living singer.
+
+Vocal arrangement:
+Male lead = storytelling and setup lines.
+Female AI voice = AI answers and short clever responses.
+Mixed crowd = chorus, repeated hooks and funny response lines.
+
+Do not sing any production instructions.
 
 ## Murake.ai Paste-Only Lyrics
 
@@ -170,4 +193,3 @@ Hype-உம் வந்தாச்சு!
 
 ஏய்! ஏய்!
 AI வந்தாச்சு!
-
